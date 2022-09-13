@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP LTC7801HFE#PBF
+D DC/DC Cntrlr Single-OUT Sync Buck 900kHz Automotive 24-Pin TSSOP EP Tube
+K
+F http://www.analog.com/media/en/technical-documentation/data-sheets/7801f.pdf
+$ENDCMP
+#
+#End Doc Library
